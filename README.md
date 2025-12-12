@@ -1,29 +1,19 @@
+# NLW Prompts Manager ⚡
 
-----
-
-## 📌 3. mentor-manager-app/README.md
-
-```md
-# Gerenciador de Mentorados 👨‍🏫
-
-Aplicação simples para gerenciar uma lista de mentorados.
+Projeto rápido criado durante o evento NLW da Rocketseat.
 
 ## 🎯 Objetivo
-Treinar:
-- CRUD básico
-- LocalStorage
-- Manipulação de lista
-- Feedback visual
+- Praticar APIs básicas
+- Manipulação simples de dados
+- Estrutura mínima de Node.js (caso exista)
 
 ## 🛠 Tecnologias
 - JavaScript
-- HTML
-- CSS
+- Node.js
+- HTML/CSS (se aplicável)
 
 ## ▶ Como executar
-Abra `index.html` no navegador.
-
-## 🚀 Melhorias futuras
-- Persistência com backend real
-- Filtro por nome
-- Validação de dados
+Dependendo da estrutura:
+```bash
+npm install
+npm start
