@@ -17,3 +17,9 @@ Dependendo da estrutura:
 ```bash
 npm install
 npm start
+
+🚀 Melhorias possíveis
+
+Endpoints reais
+
+UI simples para testar prompts
